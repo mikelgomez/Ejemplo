@@ -15,10 +15,10 @@ public class Ejemplo extends JFrame{
 	public Ejemplo() {
 		
 		
-		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		this.setTitle("Ventana");
-		this.setSize(500, 500);
 		
+		this.setTitle("Ventana 2");
+		this.setSize(500, 500);
+		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	}
 	
 	public static void main(String[] args) {
