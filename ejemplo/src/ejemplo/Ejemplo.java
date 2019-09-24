@@ -24,7 +24,7 @@ public class Ejemplo extends JFrame{
 	public static void main(String[] args) {
 		Ejemplo ejemplo = new Ejemplo();
 		ejemplo.setVisible(true);
-		System.out.Println("Hola Mundo");
+		System.out.println("Hola Mundo");
 	}
 	
 }
